@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gjjhgdddy
-- 👀 I’m interested in china
+- 👀 I’m interested in 网络
 - 🌱 I’m currently learning 代码
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
